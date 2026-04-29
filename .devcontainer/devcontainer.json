@@ -1,0 +1,9 @@
+{
+  "forwardPorts": [2500],
+  "portsAttributes": {
+    "2500": {
+      "label": "Spring Boot Server",
+      "visibility": "public"
+    }
+  }
+}
